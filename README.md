@@ -16,10 +16,6 @@ My name is Thibault Delattre. I'm a second-year master's student at Efrei Univer
   />
 </picture>
 
-
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thibault-delattre)](https://github.com/stats-organization/github-stats-extended)
-
 ## 🛠️ Tech Stack
 
 ### Languages & Web
