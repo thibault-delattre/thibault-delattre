@@ -14,6 +14,8 @@
   />
 </picture>
 
+My name is Thibault Delattre. I'm a second-year master's student at Efrei University in Paris.
+
 ## 🛠️ Tech Stack
 
 ### Languages & Web
