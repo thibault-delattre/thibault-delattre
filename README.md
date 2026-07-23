@@ -10,8 +10,6 @@ I'm a Software Engineer passionate about **Web Development**, **Quality Assuranc
 
 > *Always building. Always learning.*
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thibault-delattre)](https://github.com/stats-organization/github-stats-extended)
-
 ## 🛠️ Tech Stack
 
 ### Languages & Web
