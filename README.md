@@ -1,14 +1,4 @@
-# Hi there, I'm Thibault Delattre 👋
-
-## 👨‍💻 About Me
-
-I'm a Software Engineer passionate about **Web Development**, **Quality Assurance**, and **Artificial Intelligence**.
-
-🎯 My current focus is on bridging the gap between **Software Engineering and AI** — exploring how intelligent systems can make software more robust, adaptive, and efficient.
-
-🔧 I love crafting **reliable, well-tested tools** and tackling complex engineering challenges — whether it's optimizing a system's performance or designing scalable architectures.
-
-> *Always building. Always learning.*
+My name is Thibault Delattre. I'm a second-year master's student at Efrei University in Paris.
 
 ## 🛠️ Tech Stack
 
