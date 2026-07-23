@@ -1,7 +1,16 @@
-# Hi there, I'm [Thibault Delattre] 👋
+# Hi there, I'm Thibault Delattre 👋
 
 ## 👨‍💻 About Me
-I am a Software Engineer with a strong foundation in Web Development (TypeScript/JS) and Quality Assurance (QA). I am currently exploring the intersection of Software Engineering and Artificial Intelligence, with the goal of pursuing an Engineering Master's degree in South Korea. I enjoy building robust tools and optimizing complex systems.
+
+I'm a Software Engineer passionate about **Web Development**, **Quality Assurance**, and **Artificial Intelligence**.
+
+🎯 My current focus is on bridging the gap between **Software Engineering and AI** — exploring how intelligent systems can make software more robust, adaptive, and efficient.
+
+🌏 Driven by an international mindset, I'm preparing to pursue an **Engineering Master's degree in South Korea**, where I aim to deepen my expertise at the crossroads of technology and innovation.
+
+🔧 I love crafting **reliable, well-tested tools** and tackling complex engineering challenges — whether it's optimizing a system's performance or designing scalable architectures.
+
+> *Always building. Always learning.*
 
 ## 🛠️ Tech Stack
 
